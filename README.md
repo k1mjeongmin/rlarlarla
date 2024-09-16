@@ -1,2 +1,2 @@
 # rlarlarla
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj={rlarlarla})](https://solved.ac/{rlarlarla})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlarlarla)](https://solved.ac/rlarlarla/)
